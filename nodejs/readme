@@ -1,0 +1,8 @@
+install nodejs
+
+install mariasql via npm   -> npm install mariasql
+install najax via npm	   -> npm install najax
+
+run file:
+
+node uni_db_migration.js
