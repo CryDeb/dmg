@@ -1,0 +1,7 @@
+D:\HSLU\DMG\project\hslu_fs17_dmg\MysqlDataExporter\MysqlDataExporter\MysqlDataExporter\bin\Debug\MysqlDataExporter.exe.config
+D:\HSLU\DMG\project\hslu_fs17_dmg\MysqlDataExporter\MysqlDataExporter\MysqlDataExporter\bin\Debug\MysqlDataExporter.exe
+D:\HSLU\DMG\project\hslu_fs17_dmg\MysqlDataExporter\MysqlDataExporter\MysqlDataExporter\bin\Debug\MysqlDataExporter.pdb
+D:\HSLU\DMG\project\hslu_fs17_dmg\MysqlDataExporter\MysqlDataExporter\MysqlDataExporter\bin\Debug\MySql.Data.dll
+D:\HSLU\DMG\project\hslu_fs17_dmg\MysqlDataExporter\MysqlDataExporter\MysqlDataExporter\obj\Debug\MysqlDataExporter.csprojResolveAssemblyReference.cache
+D:\HSLU\DMG\project\hslu_fs17_dmg\MysqlDataExporter\MysqlDataExporter\MysqlDataExporter\obj\Debug\MysqlDataExporter.exe
+D:\HSLU\DMG\project\hslu_fs17_dmg\MysqlDataExporter\MysqlDataExporter\MysqlDataExporter\obj\Debug\MysqlDataExporter.pdb
